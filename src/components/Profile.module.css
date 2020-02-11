@@ -1,0 +1,10 @@
+.content{
+    grid-area: c;
+    background-color: aquamarine;
+}
+.item {
+    color: green;
+}
+.ava img {
+    width: 140px;
+}
